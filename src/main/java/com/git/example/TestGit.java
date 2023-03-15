@@ -15,5 +15,8 @@ public class TestGit {
         System.out.println("cnoscaomcsapcaskc");
 
         System.out.println("我们变成了世界上最熟悉的陌生人！！！");
+        System.out.println("pull,git3");
+        
+        
     }
 }
