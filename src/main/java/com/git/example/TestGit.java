@@ -13,5 +13,7 @@ public class TestGit {
         System.out.println("hello,git2");
         System.out.println("hello,git3");
         System.out.println("cnoscaomcsapcaskc");
+
+        System.out.println("我们变成了世界上最熟悉的陌生人！！！");
     }
 }
